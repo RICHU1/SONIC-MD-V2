@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/4.4.4.4.4.4.4444?igshid=YzU1NGVlODEzOA==' /
 global.sudo = process.env.SUDO || '919497705819'
 global.devs = '919497705819';
 global.website = 'https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD' //wa.me/+919497705819
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/XjiMUp1.jpeg'
 module.exports = {
   botname:   process.env.BOT_NAME === undefined ? '𝙳𝙰𝚁𝙺𝙻𝙴𝙴 𝙱𝙾𝚃' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? '𝙰𝙽𝙰𝙽𝙳𝙷𝚄 𝚂𝙴𝚁' : process.env.OWNER_NAME,
